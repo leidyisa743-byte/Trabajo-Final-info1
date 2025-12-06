@@ -1,0 +1,6 @@
+[
+    {"id_usuario": "123", "fecha": "2025-11-14", "horas_sueno": 6.5, "estado_animo": 5, "actividad_fisica": "Nada", "sintomas": "Cansancio"},
+    {"id_usuario": "123", "fecha": "2025-11-15", "horas_sueno": 8.0, "estado_animo": 9, "actividad_fisica": "Gym 1h", "sintomas": "Ninguno"},
+    {"id_usuario": "123", "fecha": "2025-11-16", "horas_sueno": 7.0, "estado_animo": 7, "actividad_fisica": "Caminata", "sintomas": "Dolor de espalda"},
+    {"id_usuario": "456", "fecha": "2025-11-16", "horas_sueno": 9.0, "estado_animo": 10, "actividad_fisica": "Natación", "sintomas": "Ninguno"}
+]

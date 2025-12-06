@@ -1,0 +1,5 @@
+[
+    {"id": "1", "nombre": "Admin Principal", "edad": 30, "correo": "admin@bio.com", "rol": "admin", "password": "admin123"},
+    {"id": "123", "nombre": "Isa Bio", "edad": 22, "correo": "Isa@bio.com", "rol": "usuario", "password": "user123"},
+    {"id": "456", "nombre": "Ana Bioingeniera", "edad": 21, "correo": "ana@bio.com", "rol": "usuario", "password": "ana456"}
+]

@@ -1,0 +1,20 @@
+{
+    "usuario": "123",
+    "fecha_generacion": "2025-12-06 22:15:36.215144",
+    "resumen_estadistico": {
+        "total_dias_registrados": 1,
+        "promedio_horas_sueno": 6.5,
+        "promedio_estado_animo": 5.0
+    },
+    "historial_detalle": [
+        {
+            "id": 1,
+            "id_usuario": "123",
+            "fecha": "2025-11-14",
+            "horas_sueno": 6.5,
+            "estado_animo": 5,
+            "actividad_fisica": "Nada",
+            "sintomas": "Cansancio"
+        }
+    ]
+}

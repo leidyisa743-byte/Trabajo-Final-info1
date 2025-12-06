@@ -1,0 +1,16 @@
+[
+    {
+        "id_usuario": "123",
+        "texto": "Hoy me sentí con poca energía al inicio, pero mejoró.",
+        "etiquetas": ["energía", "rutina"],
+        "estado_animo": 5,
+        "ubicacion": "Medellín"
+    },
+    {
+        "id_usuario": "456",
+        "texto": "Excelente día en el laboratorio.",
+        "etiquetas": ["trabajo", "feliz"],
+        "estado_animo": 10,
+        "ubicacion": "Rionegro"
+    }
+]

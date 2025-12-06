@@ -1,0 +1,47 @@
+{
+    "usuario": "123",
+    "fecha_generacion": "2025-12-06 22:42:13.690646",
+    "resumen_estadistico": {
+        "total_dias_registrados": 4,
+        "promedio_horas_sueno": 7.38,
+        "promedio_estado_animo": 7.75
+    },
+    "historial_detalle": [
+        {
+            "id": 5,
+            "id_usuario": "123",
+            "fecha": "2025-12-07",
+            "horas_sueno": 8.0,
+            "estado_animo": 10,
+            "actividad_fisica": "Baile",
+            "sintomas": "Ninguno"
+        },
+        {
+            "id": 3,
+            "id_usuario": "123",
+            "fecha": "2025-11-16",
+            "horas_sueno": 7.0,
+            "estado_animo": 7,
+            "actividad_fisica": "Caminata",
+            "sintomas": "Dolor de espalda"
+        },
+        {
+            "id": 2,
+            "id_usuario": "123",
+            "fecha": "2025-11-15",
+            "horas_sueno": 8.0,
+            "estado_animo": 9,
+            "actividad_fisica": "Gym 1h",
+            "sintomas": "Ninguno"
+        },
+        {
+            "id": 1,
+            "id_usuario": "123",
+            "fecha": "2025-11-14",
+            "horas_sueno": 6.5,
+            "estado_animo": 5,
+            "actividad_fisica": "Nada",
+            "sintomas": "Cansancio"
+        }
+    ]
+}
